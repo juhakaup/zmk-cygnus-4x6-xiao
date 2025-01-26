@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: corne_left
+    shield: cygnus_left
   - board: seeeduino_xiao_ble
-    shield: corne_right
+    shield: cygnus_right
